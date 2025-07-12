@@ -1,3 +1,3 @@
 # CareCompass
-RAG AI app for care managers, uses InterSystems IRIS as the Vector Store /n
+RAG AI app for care managers, uses InterSystems IRIS as the Vector Store and 
 Gradio for front end user interface.
